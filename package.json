@@ -1,7 +1,7 @@
 {
-  "name": "dictionary-api",
-  "version": "1.0.0",
-  "description": "API Wrapper for the Dictionary API",
+  "name": "super-dictionary",
+  "version": "1.0.3",
+  "description": "Zero-Dependency All-Language Dictionary Wrapper for Dictionary API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,15 @@
     "thesaurus"
   ],
   "author": "GamerCoder215",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamerCoder215/dictionary-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GamerCoder215/dictionary-api/issues"
+  },
+  "homepage": "https://github.com/GamerCoder215/dictionary-api#readme"
 }

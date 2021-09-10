@@ -282,6 +282,10 @@ async function getInformation(word, language) {
 	})
 }
 
+getSynonyms('nice').then(data => {
+	console.log(data);
+})
+
 module.exports = {
 	getDefinition,
 	getSynonyms,
